@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1023509503861",
+    "project_id": "bblogin-4af50",
+    "storage_bucket": "bblogin-4af50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023509503861:android:87d52a4f6c5d2aa10e7d3c",
+        "android_client_info": {
+          "package_name": "com.saket.bblogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023509503861-fbr1pefdka3nlrc50mnq8pq77kjasjcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saket.bblogin",
+            "certificate_hash": "1728c895c288880f2821f8c193bce7df271498f6"
+          }
+        },
+        {
+          "client_id": "1023509503861-eaejjp4n80ghmcj6hvhh1291beobd0hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnCh6snc7Mx5CvMDFL0oPV8B3LctvrAhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023509503861-eaejjp4n80ghmcj6hvhh1291beobd0hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
